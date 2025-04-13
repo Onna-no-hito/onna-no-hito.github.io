@@ -42,7 +42,7 @@ img {
 
 h1 {
   border-bottom: 1px solid rgba(102, 97, 127, .95);
-  color: rgba(102, 97, 127, .95);
+  color: rgba(255, 255, 255, .95);
   font-size: 1.8rem;
   font-weight: 500;
   margin: 2rem 0;
@@ -76,7 +76,7 @@ nav li {
 }
 
 nav a {
-  color: rgba(102, 97, 127, .95);
+  color: rgba(255, 255,255, .95);
   text-decoration: none;
   font-size: 1.2rem;
   transition: opacity 150ms ease-in-out;
